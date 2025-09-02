@@ -1,3 +1,3 @@
-# Essential-Python-libraries
+# Python-libraries
 
 1. NumPy
